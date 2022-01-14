@@ -51,6 +51,3 @@ render() {
 
 export default App;
 
-
-// api key: 408b42017625533afa2c75a1113eeb04
-// secret:  1208841024b64ef0
